@@ -1,0 +1,105 @@
+timestamp,judge_name,team_name,go_live,usefulness,taste,problem_statement
+2025-03-29 18:27:40,Nimisha,tehlaninayan7,4,4,2,4
+2025-03-29 18:27:54,Dev,tehlaninayan7,4,5,1,2
+2025-03-29 18:28:34,Ishan,tehlaninayan7,5,4,3,4
+2025-03-29 18:29:08,Rohan,tehlaninayan7,3,4,4,4
+2025-03-29 18:29:34,vedant,tehlaninayan7,5,4,3,4
+2025-03-29 18:29:58,chintan,tehlaninayan7,5,3,3,4
+2025-03-29 18:30:37,Gaurang,tehlaninayan7,5,2,3,2
+2025-03-29 18:31:37,Ayush,tehlaninayan7,4,3,4,5
+2025-03-29 18:34:23,vedant,kya@karu.mai,5,5,5,4
+2025-03-29 18:34:23,Gaurang,kya@karu.mai,1,1,2,1
+2025-03-29 18:35:31,Rohan,kya@karu.mai,3,3,4,3
+2025-03-29 18:35:51,Ishan,kya@karu.mai,3,1,3,2
+2025-03-29 18:36:27,chintan,kya@karu.mai,2,2,3,2
+2025-03-29 18:36:27,Nimisha,kya@karu.mai,4,3,2,3
+2025-03-29 18:36:39,Dev,kya@karu.mai,3,2,1,2
+2025-03-29 18:38:31,Ayush,kya@karu.mai,2,1,1,1
+2025-03-29 18:40:30,vedant,Sugarplum,5,5,5,5
+2025-03-29 18:41:37,Gaurang,Sugarplum,5,3,4,4
+2025-03-29 18:41:58,Nimisha,Sugarplum,3,4,3,2
+2025-03-29 18:42:22,Ishan,Sugarplum,5,3,4,3
+2025-03-29 18:42:26,Ayush,Sugarplum,4,2,5,3
+2025-03-29 18:42:37,chintan,Sugarplum,4,2,4,4
+2025-03-29 18:42:39,Rohan,Sugarplum,4,4,2,3
+2025-03-29 18:43:00,Dev,Sugarplum,5,1,5,5
+2025-03-29 18:48:09,Ishan,LLM Ninjas,2,1,3,2
+2025-03-29 18:50:23,Rohan,LLM Ninjas,4,2,3,3
+2025-03-29 18:50:44,Ayush,LLM Ninjas,1,1,1,1
+2025-03-29 18:51:03,vedant,LLM Ninjas,1,1,0,2
+2025-03-29 18:51:12,chintan,LLM Ninjas,1,0,1,1
+2025-03-29 18:51:12,Gaurang,LLM Ninjas,2,1,2,2
+2025-03-29 18:51:30,Dev,LLM Ninjas,2,1,0,5
+2025-03-29 18:52:28,Nimisha,LLM Ninjas,3,4,2,4
+2025-03-29 18:55:49,Nimisha,Ironold,4,3,3,3
+2025-03-29 18:56:59,Gaurang,Ironold,4,2,3,3
+2025-03-29 18:59:58,Ishan,Ironold,4,3,1,3
+2025-03-29 19:00:25,chintan,Ironold,4,4,3,3
+2025-03-29 19:00:33,Dev,Ironold,2,3,3,4
+2025-03-29 19:00:39,Rohan,Ironold,4,3,3,4
+2025-03-29 19:00:43,Ayush,Ironold,4,2,2,4
+2025-03-29 19:01:31,vedant,Ironold,5,5,5,5
+2025-03-29 19:04:59,Nimisha,ChaiBiscuit,4,3,4,5
+2025-03-29 19:05:02,Rohan,ChaiBiscuit,4,3,2,4
+2025-03-29 19:07:18,Ayush,ChaiBiscuit,3,1,2,2
+2025-03-29 19:07:23,Gaurang,ChaiBiscuit,1,3,4,3
+2025-03-29 19:07:34,Ishan,ChaiBiscuit,4,4,3,3
+2025-03-29 19:09:12,vedant,ChaiBiscuit,3,2,5,4
+2025-03-29 19:11:52,chintan,ChaiBiscuit,4,2,3,3
+2025-03-29 19:12:10,Dev,ChaiBiscuit,2,4,5,1
+2025-03-29 19:17:31,Nimisha,Dostwriter,3,3,3,4
+2025-03-29 19:18:16,vedant,Dostwriter,1,3,2,2
+2025-03-29 19:19:17,Gaurang,Dostwriter,1,1,2,2
+2025-03-29 19:19:26,Rohan,Dostwriter,3,3,3,2
+2025-03-29 19:19:28,Ishan,Dostwriter,1,3,2,2
+2025-03-29 19:19:35,chintan,Dostwriter,2,2,4,3
+2025-03-29 19:22:58,Dev,Dostwriter,1,4,5,5
+2025-03-29 19:24:21,Ayush,Dostwriter,2,2,2,1
+2025-03-29 19:28:49,Nimisha,Bob the Builders AI,4,4,2,4
+2025-03-29 19:28:49,Rohan,Bob the Builders AI,2,4,3,4
+2025-03-29 19:30:54,chintan,Bob the Builders AI,2,3,2,3
+2025-03-29 19:30:57,Gaurang,Bob the Builders AI,2,4,3,4
+2025-03-29 19:31:09,Ayush,Bob the Builders AI,2,4,2,4
+2025-03-29 19:31:22,vedant,Bob the Builders AI,1,3,2,3
+2025-03-29 19:31:26,Ishan,Bob the Builders AI,3,5,2,4
+2025-03-29 19:31:28,Dev,Bob the Builders AI,2,3,1,5
+2025-03-29 19:36:40,vedant,Fluid,2,3,2,2
+2025-03-29 19:37:31,Gaurang,Fluid,2,4,3,3
+2025-03-29 19:40:10,Ishan,Fluid,3,2,4,2
+2025-03-29 19:42:15,Rohan,Fluid,4,2,4,3
+2025-03-29 19:43:02,chintan,Fluid,2,1,2,2
+2025-03-29 19:43:15,Ayush,Fluid,2,3,4,2
+2025-03-29 19:43:30,Dev,Fluid,3,0,4,0
+2025-03-29 19:48:19,Rohan,Neural Babel,3,3,2,3
+2025-03-29 19:48:27,Gaurang,Neural Babel,2,2,2,2
+2025-03-29 19:48:46,vedant,Neural Babel,2,2,3,2
+2025-03-29 19:48:47,Ishan,Neural Babel,3,3,4,3
+2025-03-29 19:49:06,chintan,Neural Babel,3,2,3,2
+2025-03-29 19:49:28,Ayush,Neural Babel,3,5,4,4
+2025-03-29 19:50:44,Nimisha,Fluid,4,2,3,4
+2025-03-29 19:51:05,Dev,Neural Babel,4,4,2,3
+2025-03-29 19:51:06,Nimisha,Neural Babel,4,2,3,4
+2025-03-29 19:53:59,vedant,fiction AI,4,2,5,2
+2025-03-29 19:55:20,Nimisha,fiction AI,4,4,4,4
+2025-03-29 19:55:29,Rohan,fiction AI,4,3,4,3
+2025-03-29 19:55:45,Dev,fiction AI,5,2,5,4
+2025-03-29 19:56:02,chintan,fiction AI,5,4,5,4
+2025-03-29 19:56:03,Gaurang,fiction AI,5,5,5,5
+2025-03-29 19:57:12,Ayush,fiction AI,5,4,5,3
+2025-03-29 19:57:19,Ishan,fiction AI,5,3,5,3
+2025-03-29 19:59:31,Gaurang,SOLOYOLO,3,3,3,3
+2025-03-29 20:00:34,Ishan,SOLOYOLO,2,4,2,4
+2025-03-29 20:00:38,Rohan,SOLOYOLO,4,4,3,3
+2025-03-29 20:04:04,chintan,SOLOYOLO,3,3,3,3
+2025-03-29 20:04:07,Ayush,SOLOYOLO,2,1,2,2
+2025-03-29 20:04:28,Nimisha,SOLOYOLO,3,4,3,4
+2025-03-29 20:04:48,vedant,SOLOYOLO,3,1,1,1
+2025-03-29 20:04:52,Dev,SOLOYOLO,3,1,2,1
+2025-03-29 20:06:10,Gaurang,Team 1,5,4,4,4
+2025-03-29 20:09:29,Rohan,Team 1,3,3,3,4
+2025-03-29 20:09:36,Ishan,Team 1,4,4,3,4
+2025-03-29 20:09:53,Nimisha,Team 1,4,3,4,4
+2025-03-29 20:10:12,Ayush,Team 1,4,3,3,3
+2025-03-29 20:10:20,vedant,Team 1,0,1,1,1
+2025-03-29 20:10:22,chintan,Team 1,4,3,3,3
+2025-03-29 20:10:27,Dev,Team 1,1,1,0,3
